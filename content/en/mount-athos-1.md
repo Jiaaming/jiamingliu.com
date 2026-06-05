@@ -71,21 +71,25 @@ On the taxi ride from the airport into the city, I chatted with the driver about
 
 ## Ouranoupoli: The Night Before Entering Mount Athos
 
-After spending a short day in Thessaloniki, I took a bus the next afternoon to Ouranoupoli — the most common gateway town for people heading to Mount Athos.
+After spending a short day in Thessaloniki, I took a bus the next afternoon to Ouranoupoli — the most common route for most people heading to Mount Athos.
 
-The bus drove eastward, gradually leaving the edges of Thessaloniki behind. The scenery outside the window changed little by little: first ordinary suburban roads, then hills, grass slopes, and scattered villages, and finally the view suddenly opened up, with the Aegean Sea appearing in the distance. The whole journey felt as if I was slowly leaving the modern world and heading toward something older. After more than two bumpy hours, the bus finally arrived in Ouranoupoli.
+The bus drove eastward, gradually leaving the edges of Thessaloniki behind. The scenery outside the window changed little by little: first ordinary suburban roads, then hills, grassy slopes, and scattered villages, until the view suddenly opened up and the Aegean Sea appeared in the distance. The whole journey felt as if I was slowly leaving the modern world and heading toward something older. After more than two bumpy hours, the bus finally arrived in Ouranoupoli.
 
-It was around four in the afternoon when I arrived, but the streets were almost empty. Later I realized that the rhythm of this small town is closely tied to the boat schedule for Mount Athos. The liveliest times of day are basically when boats arrive and depart. Pilgrims, visitors, monks, and supplies all appear around those moments; at other times, the whole town quickly falls quiet again.
+It was around four in the afternoon when I arrived, but the streets were almost empty. Later I realized that the rhythm of this small town is closely tied to the boat schedule for Mount Athos. The liveliest moments of the day are basically when boats arrive and depart. Pilgrims, visitors, monks, and supplies all gather around those times; otherwise, the whole town quickly falls quiet again.
 
 The guesthouse I stayed at was run by an elderly grandmother who did not speak English. She took me upstairs and introduced the room, the keys, hot water, and various facilities entirely in Greek. I understood none of it, so I could only keep nodding along, trying my best to look like someone who had understood everything perfectly.
 
 ![](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/20260605103024.png)
 
-Ouranoupoli itself is not large. Along the main street, there are many shops selling items related to Mount Athos and Eastern Orthodoxy: icons, crosses, prayer ropes, candles, incense, as well as honey, olive oil, and wine produced by the monasteries.
+The name Ouranoupoli itself is quite interesting — it roughly means “City of Heaven” or “Heavenly City.” It was originally a Greek city in the classical period, and later, during the Byzantine and Ottoman periods, remained a small coastal settlement for a long time.
 
-On one hand, this is just an ordinary seaside town. On the other hand, it is also the buffer zone before entering Mount Athos. One step further, and you enter a world where women are forbidden, monks govern themselves, and life follows a completely different order. But here, you can still buy Coke, book a hotel, and eat at a restaurant.
+![](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/5932C300-E922-4F9F-A25E-FFD6C064E867_1_105_c.jpeg)
 
-![There are many Mount Athos / Eastern Orthodox gift shops on the street](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/20260605103403.png)
+Today, the most prominent building at the entrance to the town is a defensive tower built in the Byzantine period. It originally belonged to the estate system of a nearby monastery and was used to guard the coast and monastic property. In a sense, Ouranoupoli’s history has always been tied to Mount Athos. It was not a major city that developed independently, but more like the gateway through which the Holy Mountain faced the outside world. Even today, most people heading to Mount Athos still have to collect their permit, buy their boat ticket, and board the ferry from here.
+
+One step further, and you enter that world where women are forbidden, monks govern themselves, and life follows a completely different order. But here, you can still buy Coke, book a hotel, and eat at a restaurant.
+
+![Along the main street, there are many shops related to Mount Athos and Eastern Orthodoxy. They sell icons, crosses, prayer ropes, candles, incense, as well as honey, olive oil, and wine produced by the monasteries](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/20260605103403.png)
 
 ![Since I was not sure whether food would be convenient after entering the mountain, I bought some snacks at the supermarket to carry with me. Later I found that this was actually quite necessary...](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/20260605103850.png)
 
