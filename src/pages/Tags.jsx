@@ -8,7 +8,7 @@ const SectionTitle = ({ children }) => (
 )
 
 const Tags = () => {
-  const { posts } = useOutletContext()
+  const { posts, labels } = useOutletContext()
   const [searchParams, setSearchParams] = useSearchParams()
   const activeTag = searchParams.get('tag')
 
@@ -41,13 +41,15 @@ const Tags = () => {
     <div className="space-y-8">
       <div>
         <div className="mt-4">
-          <TagFilter tags={tags} activeTag={activeTag} onSelect={handleSelectTag} />
+          <TagFilter tags={tags} activeTag={activeTag} onSelect={handleSelectTag} allLabel={labels.common.all} />
         </div>
       </div>
 
       <div className="p-1 sm:p-2 border-t border-border">
         <SectionTitle>
-          {activeTag ? `Posts tagged "${activeTag}" (${filteredPosts.length})` : `All Posts (${filteredPosts.length})`}
+          {activeTag
+            ? labels.tags.postsTagged(activeTag, filteredPosts.length)
+            : labels.tags.allPosts(filteredPosts.length)}
         </SectionTitle>
         <div className="mt-4 divide-y divide-border">
           {filteredPosts.map((post) => (

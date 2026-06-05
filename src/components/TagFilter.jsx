@@ -1,4 +1,4 @@
-const TagFilter = ({ tags, activeTag, onSelect }) => (
+const TagFilter = ({ tags, activeTag, onSelect, allLabel }) => (
   <div className="flex flex-wrap gap-2">
     <button
       className={`px-3 py-1 rounded-md border text-sm transition-colors duration-150 ${
@@ -8,7 +8,7 @@ const TagFilter = ({ tags, activeTag, onSelect }) => (
       }`}
       onClick={() => onSelect(null)}
     >
-      All
+      {allLabel}
     </button>
     {tags.map((tag) => (
       <button

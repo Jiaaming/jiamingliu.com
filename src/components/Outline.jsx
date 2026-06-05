@@ -1,4 +1,4 @@
-const Outline = ({ headings }) => {
+const Outline = ({ headings, title = 'Outline' }) => {
   if (!headings.length) return null
 
   const handleClick = (event, id) => {
@@ -18,7 +18,7 @@ const Outline = ({ headings }) => {
 
   return (
     <div className="text-sm text-ink space-y-2">
-      <p className="uppercase tracking-[0.18em] text-xs text-ink">Outline</p>
+      <p className="uppercase tracking-[0.18em] text-xs text-ink">{title}</p>
       <ul className="space-y-1">
         {headings.map((h) => (
           <li

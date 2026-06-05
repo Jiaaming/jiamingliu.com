@@ -8,10 +8,10 @@ const extractYear = (dateStr) => {
   return year || 'Unknown'
 }
 
-const PostList = ({ page, posts }) => {
+const PostList = ({ posts }) => {
   const visible = useMemo(() => {
     return posts.filter((post) => post.category === 'posts')
-  }, [page, posts])
+  }, [posts])
 
   const grouped = useMemo(() => {
     return visible.reduce((acc, post) => {

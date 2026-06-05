@@ -1,7 +1,7 @@
 export const navItems = [
-  { key: 'about', label: 'about', path: '/' },
-  { key: 'posts', label: 'posts', path: '/posts' },
-  { key: 'tags', label: 'tags', path: '/tags' },
+  { key: 'about', path: '/' },
+  { key: 'posts', path: '/posts' },
+  { key: 'tags', path: '/tags' },
 ]
 
 export default navItems
