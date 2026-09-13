@@ -96,7 +96,7 @@ category: posts
 
 修士还把我拉过去给我展示了分配住宿的软件，显示有一百六十多个床位，当天已经住了一百多人。我被分到一间多人宿舍，室友来自罗马尼亚。
 
-![我入住的多人宿舍，床铺、毛毯和毛巾都叠得整整齐齐，条件比我此前想象的好得多。](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/6B8F478E-5111-4D89-B847-1CC56ACCB4FC_1_105_c.jpeg)
+![接待区商店里的十字架和宗教饰品](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/6B8F478E-5111-4D89-B847-1CC56ACCB4FC_1_105_c.jpeg)
 
 安顿好以后，我独自在修道院里转了转。瓦托佩迪和我想象中的“中世纪修道院”并不完全一样：接待区有自动咖啡机，垃圾按照欧盟标准分类，山坡上能看到太阳能板，院外还有耕地和鱼塘。咖啡机甚至提供希腊、俄罗斯、罗马尼亚等不同口味——听起来很国际化，喝起来倒都差不多。
 
@@ -104,7 +104,7 @@ category: posts
 
 旁边还有一间小商店，出售十字架、圣像和修道院制作的商品——跟景区的礼品店别无二致。这里更像一个规模很大的自给自足社区：修士们祷告，也要耕作、维护建筑、接待访客，还要处理每天真实而琐碎的生活。
 
-![接待区商店里的十字架和宗教饰品](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/326E40BF-3F7E-4354-90B7-397929200276_1_105_c.jpeg)
+![我入住的多人宿舍，床铺、毛毯和毛巾都叠得整整齐齐，条件比我此前想象的好得多。](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/326E40BF-3F7E-4354-90B7-397929200276_1_105_c.jpeg)
 
 ![瓦托佩迪中央庭院，右侧是主教堂的一部分](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/3134523C-CA19-424E-8EB1-E3D57C58D414_1_105_c.jpeg)
 

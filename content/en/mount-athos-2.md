@@ -93,7 +93,7 @@ The monk first explained the accommodation and service schedule to everyone else
 
 The monk then pulled me over to show me the software they used to assign rooms. It displayed more than 160 beds, over a hundred of which were already occupied that day. I was placed in a shared dormitory with several visitors from Romania.
 
-![My dormitory, where the beds, blankets, and towels had all been arranged neatly; the conditions were much better than I had expected](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/6B8F478E-5111-4D89-B847-1CC56ACCB4FC_1_105_c.jpeg)
+![Crosses and religious ornaments in the shop beside the reception area](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/6B8F478E-5111-4D89-B847-1CC56ACCB4FC_1_105_c.jpeg)
 
 After settling in, I wandered around the monastery by myself. Vatopedi did not entirely match my idea of a “medieval monastery.” The reception area had automatic coffee machines; rubbish was sorted according to EU standards; solar panels stood on the hillside; and outside the walls were fields and a fishpond. The coffee machine even offered Greek, Russian, Romanian, and several other “national” varieties. They sounded very international, though they all tasted more or less the same to me.
 
@@ -101,7 +101,7 @@ After settling in, I wandered around the monastery by myself. Vatopedi did not e
 
 There was also a small shop nearby selling crosses, icons, and products made by the monastery—really no different from the gift shop at a tourist attraction. The place felt more like a large, mostly self-sufficient community: the monks prayed, but they also farmed, maintained the buildings, welcomed guests, and dealt with the tangible and mundane details of daily life.
 
-![Crosses and religious ornaments in the shop beside the reception area](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/326E40BF-3F7E-4354-90B7-397929200276_1_105_c.jpeg)
+![My dormitory, where the beds, blankets, and towels had all been arranged neatly; the conditions were much better than I had expected](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/326E40BF-3F7E-4354-90B7-397929200276_1_105_c.jpeg)
 
 ![Vatopedi’s central courtyard, with part of the main church on the right](https://raw.githubusercontent.com/Jiaaming/blogImage/main/pic/3134523C-CA19-424E-8EB1-E3D57C58D414_1_105_c.jpeg)
 
